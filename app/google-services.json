@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370114972592",
+    "project_id": "vinzmusic-a70f2",
+    "storage_bucket": "vinzmusic-a70f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370114972592:android:2de737e5f219f754312475",
+        "android_client_info": {
+          "package_name": "com.aistudio.melofy.mpzx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkwo496j_7G7N8rjXjQKfHtdosn0mil40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
